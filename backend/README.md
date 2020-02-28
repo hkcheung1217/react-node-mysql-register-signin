@@ -3,7 +3,7 @@
 To start:
 
     - Application requires MySQL database. Can be done by MySQL Workbench, XAMPP or others
-    - Recommend creating database "nodemysql" and table "users". Read SQLDBDump for further details.
+    - Create table "users". Read SQLDBDump for further details.
     - Use cmd navigating to "backend" directory
     - Enter "npm install" or "npm i" to install dependencies
     - Enter "npm start"
