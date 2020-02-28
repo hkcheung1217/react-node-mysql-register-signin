@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-node-signup-signin/static/css/main.3e431641.chunk.css",
+    "main.js": "/react-node-signup-signin/static/js/main.ee64f57b.chunk.js",
+    "main.js.map": "/react-node-signup-signin/static/js/main.ee64f57b.chunk.js.map",
+    "runtime-main.js": "/react-node-signup-signin/static/js/runtime-main.9a314147.js",
+    "runtime-main.js.map": "/react-node-signup-signin/static/js/runtime-main.9a314147.js.map",
+    "static/js/2.4816dbf2.chunk.js": "/react-node-signup-signin/static/js/2.4816dbf2.chunk.js",
+    "static/js/2.4816dbf2.chunk.js.map": "/react-node-signup-signin/static/js/2.4816dbf2.chunk.js.map",
+    "index.html": "/react-node-signup-signin/index.html",
+    "precache-manifest.80bd174a297ed2850bc062b1f243c3a4.js": "/react-node-signup-signin/precache-manifest.80bd174a297ed2850bc062b1f243c3a4.js",
+    "service-worker.js": "/react-node-signup-signin/service-worker.js",
+    "static/css/main.3e431641.chunk.css.map": "/react-node-signup-signin/static/css/main.3e431641.chunk.css.map",
+    "static/js/2.4816dbf2.chunk.js.LICENSE.txt": "/react-node-signup-signin/static/js/2.4816dbf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a314147.js",
+    "static/js/2.4816dbf2.chunk.js",
+    "static/css/main.3e431641.chunk.css",
+    "static/js/main.ee64f57b.chunk.js"
+  ]
+}
