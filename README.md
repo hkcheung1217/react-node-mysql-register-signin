@@ -11,4 +11,3 @@ To start:
 The deployed version is hosted on GitHub & Heroku.
 Database is hosted on ClearDB.
 
-d
